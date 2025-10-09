@@ -1,0 +1,14 @@
+{
+  "path": "construction-gallery/interior-office.jpg",
+  "url": null,
+  "width": 1024,
+  "height": 768,
+  "format": "jpg",
+  "prompt": "Luxury interior construction of modern office space with red accent walls, workers installing ceiling panels, lighting fixtures being installed, construction tools and materials neatly arranged, professional interior construction photography, sleek modern design, red theme elements, perfect lighting, ultra detailed, construction in progress.",
+  "negative_prompt": null,
+  "model": "qwen-image",
+  "guidance_scale": 20.0,
+  "num_inference_steps": 100,
+  "createdAt": "2025-09-09T18:30:56.995816Z",
+  "hash": "42f172c4b9b91a58c208bad3b6aaf16a60453b94"
+}

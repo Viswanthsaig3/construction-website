@@ -1,0 +1,14 @@
+{
+  "path": "construction-gallery/bridge-construction.jpg",
+  "url": null,
+  "width": 1024,
+  "height": 768,
+  "format": "jpg",
+  "prompt": "Bridge construction over river with red steel arches, engineering marvel, construction workers on bridge deck, cable stay design, professional construction photography, golden hour lighting, red engineering elements, modern bridge technology, ultra detailed, construction progress showing structure.",
+  "negative_prompt": null,
+  "model": "qwen-image",
+  "guidance_scale": 20.0,
+  "num_inference_steps": 100,
+  "createdAt": "2025-09-09T18:31:33.115578Z",
+  "hash": "276ce01e211c91598f56b21e5561df2f5b95f042"
+}

@@ -1,0 +1,14 @@
+{
+  "path": "construction-gallery/architectural-rendering.jpg",
+  "url": null,
+  "width": 1024,
+  "height": 768,
+  "format": "jpg",
+  "prompt": "Renderings of modern architectural building with red glass facade, 3D architectural visualization, sleek contemporary design, sunset behind building, professional arch viz rendering, ultra realistic, perfect lighting, sophisticated color scheme, red accents galore, luxury construction visualization.",
+  "negative_prompt": null,
+  "model": "qwen-image",
+  "guidance_scale": 20.0,
+  "num_inference_steps": 100,
+  "createdAt": "2025-09-09T18:32:07.756093Z",
+  "hash": "3868cd782b834e10c8fef22daafefb0e558dc794"
+}

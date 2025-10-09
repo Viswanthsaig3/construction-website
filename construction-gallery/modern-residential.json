@@ -1,0 +1,14 @@
+{
+  "path": "construction-gallery/modern-residential.jpg",
+  "url": null,
+  "width": 1024,
+  "height": 768,
+  "format": "jpg",
+  "prompt": "Modern luxury residential building construction with clean architectural lines, large glass windows, red accent lighting, and contemporary facade. Professional photography style with perfect lighting, construction process showing steel frame structure with workers in safety gear, red construction cranes in background, blue sky with clouds, high resolution, ultra detailed, architectural photography.",
+  "negative_prompt": null,
+  "model": "qwen-image",
+  "guidance_scale": 20.0,
+  "num_inference_steps": 100,
+  "createdAt": "2025-09-09T18:29:03.655995Z",
+  "hash": "091589593c7339ed13cbdc2ee84099d3190d1340"
+}

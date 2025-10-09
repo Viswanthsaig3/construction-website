@@ -1,0 +1,14 @@
+{
+  "path": "construction-gallery/commercial-skyscraper.jpg",
+  "url": null,
+  "width": 1024,
+  "height": 768,
+  "format": "jpg",
+  "prompt": "High-end commercial skyscraper construction with glass curtain wall installation, construction workers installing glass panels, red safety netting, modern city skyline background, perfect golden hour lighting, professional architectural photography, ultra detailed, red accent colors visible, steel beams and construction cranes, urban construction site.",
+  "negative_prompt": null,
+  "model": "qwen-image",
+  "guidance_scale": 20.0,
+  "num_inference_steps": 100,
+  "createdAt": "2025-09-09T18:29:39.308665Z",
+  "hash": "a684b21212a9df6b678a8201064ee6cbbd2d79d3"
+}

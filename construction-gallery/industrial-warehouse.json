@@ -1,0 +1,14 @@
+{
+  "path": "construction-gallery/industrial-warehouse.jpg",
+  "url": null,
+  "width": 1024,
+  "height": 768,
+  "format": "jpg",
+  "prompt": "Modern industrial warehouse construction with large steel arches, red roof beams, forklifts moving materials, workers in hard hats, clean organized construction site, red safety equipment, industrial construction photography, high detail, wide angle view, sunset lighting, sophisticated color tones.",
+  "negative_prompt": null,
+  "model": "qwen-image",
+  "guidance_scale": 20.0,
+  "num_inference_steps": 100,
+  "createdAt": "2025-09-09T18:30:23.712017Z",
+  "hash": "b60cc4caca3bd475bacab465e8b6fd12290d6dc1"
+}
