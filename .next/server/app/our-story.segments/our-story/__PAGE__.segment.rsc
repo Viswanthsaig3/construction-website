@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"TwmPYl5nbi-jH9zS0N4bF","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pt-24 bg-biscuit min-h-screen","children":["$","section",null,{"className":"py-20 lg:py-32 overflow-hidden","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"text-center mb-16","children":[["$","h1",null,{"className":"text-5xl font-bold text-deep-green mb-4","children":"Our Story"}],["$","div",null,{"className":"h-1 w-24 bg-gold mx-auto"}]]}],["$","div",null,{"className":"prose prose-lg mx-auto text-neutral-600","children":["$","p",null,{"children":"Welcome to SVS Developers. We are committed to building the future..."}]}]]}]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
